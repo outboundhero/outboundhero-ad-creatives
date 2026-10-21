@@ -40,3 +40,7 @@ All 28 images are in the Meta media library (verified Oct 20, 2026).
 | 25_rely-on-door-knocking-alone | b65e6c741a5a9bb7d5e4858991b07e25 | bench |
 | 26_rely-on-cold-calling-alone | 35a6eea157a3a1abdc013228a92ca36b | bench |
 | 27_rely-on-field-reps-to-prospect | 7f7542e37add4288fe4cf3a0ff5dfa95 | bench |
+
+## Brand accent
+
+Accent color is #FF2E12 (vibrant red-orange), changed from #FF4426 on 2026-10-20. Use it anywhere orange appears. Meta image hashes below were replaced on 2026-10-20 after the recolor.
