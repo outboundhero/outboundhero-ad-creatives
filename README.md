@@ -43,4 +43,4 @@ All 28 images are in the Meta media library (verified Oct 20, 2026).
 
 ## Brand accent
 
-Accent color is #FF2E12 (vibrant red-orange), changed from #FF4426 on 2026-10-20. Use it anywhere orange appears. Meta image hashes below were replaced on 2026-10-20 after the recolor.
+Accent color is #FF2E12 (vibrant red-orange), changed from #FF4426 on 2026-10-20. Use it anywhere orange appears. The Meta image hashes in the table above were replaced on 2026-10-20 after the recolor.
