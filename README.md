@@ -44,3 +44,12 @@ All 28 images are in the Meta media library (verified Oct 20, 2026).
 ## Brand accent
 
 Accent color is #FF2E12 (vibrant red-orange), changed from #FF4426 on 2026-10-20. Use it anywhere orange appears. The Meta image hashes in the table above were replaced on 2026-10-20 after the recolor.
+
+## 2026-11-100k-statics: Meta image hashes
+Round 1 of the $100K+ statics (uploaded Nov 13, 2026). Ads not built yet; they wait on the v2 instant form.
+
+| File | Meta image hash | Status |
+|---|---|---|
+| OH_100K_01_Biggest_Client_4x5 | dbaea75535a867b63dcdf1156dba167b | ready, not live |
+| OH_100K_02_Guarantee_4x5 | 404ccb7ab212b7cf82459c4a4b41ce96 | ready, not live |
+| OH_100K_03_Government_Bids_4x5 | dbb1549f382fd6b68ac96baa525fef37 | ready, not live |
