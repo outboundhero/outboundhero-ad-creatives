@@ -53,3 +53,21 @@ Round 1 of the $100K+ statics (uploaded Nov 13, 2026). Ads not built yet; they w
 | OH_100K_01_Biggest_Client_4x5 | dbaea75535a867b63dcdf1156dba167b | ready, not live |
 | OH_100K_02_Guarantee_4x5 | 404ccb7ab212b7cf82459c4a4b41ce96 | ready, not live |
 | OH_100K_03_Government_Bids_4x5 | dbb1549f382fd6b68ac96baa525fef37 | ready, not live |
+
+## 2026-11-25-notes-statics: Meta image hashes
+Apple Notes "Spencer, Founder" statics. Each ad uses placement rules: 9:16 in FB/IG Stories and Reels, 4:5 in FB/IG Feed. Staged as drafts Nov 25, 2026 in ad sets A (120247653071180099) and B (120247653071260099).
+
+| Ad | 4:5 feed hash | 9:16 Stories/Reels hash | Ad ID |
+|---|---|---|---|
+| A1 dark | 9721287d1033934765de0f1e620a9e5a | f3131142a575bab166f236d016264823 | 120247654289980099 |
+| A1 light | 5536cd499d994783e0c1b5ee1f4fbdf0 | 664e4bec1bebba042e74e8d335dac849 | 120247654302640099 |
+| A2 dark | 480f784f6d97e6f4992cae1593a69a31 | 8563ad1957da81e4097d039877add14f | 120247654302880099 |
+| A2 light | 80b8328baf010d4444fc2282bb6b97c8 | 92648d0cf9307e42226734185c532881 | 120247654303470099 |
+| A3 dark | 781af15783b7384d1f030455dadfd436 | bd52edb3eb2d3f79bc35db1781370183 | 120247654304230099 |
+| A3 light | 572fd6f49783c2b6652a9d597f3d82b6 | 46bf868c7d02e71e421018415ffe93d0 | 120247654304710099 |
+| B1 dark | 82035f9696a903453ab5a58226323d89 | 2a359ffcd05e3a4d1d2c2edf8e3181ac | 120247654304820099 |
+| B1 light | 3b3c131fc56aa58332a8a10b0e956bd5 | c29734fd2c9eaa6cdb0a2f09f866a426 | 120247654305110099 |
+| B2 dark | f4b3f08a4604ee8fd1f9a3af7fbd487c | e90e8654ee56329e2058352cf3c7495e | 120247654305700099 |
+| B2 light | 29b9d588d8ea66ca9bee2fa6f3ffbd38 | d3493813bba626e769b13e27e00603b5 | 120247654305990099 |
+| B3 dark | 6e4147fce43207dc9f3086e9943a853e | b5e558ff7065a9fdc45419d78b19f8b9 | 120247654306170099 |
+| B3 light | f44f53f41059c59584d5110b7e800ee3 | c27dba36634628afec4a62eedcd1a6b3 | 120247654306520099 |
