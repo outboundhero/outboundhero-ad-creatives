@@ -71,3 +71,5 @@ Apple Notes "Spencer, Founder" statics. Each ad uses placement rules: 9:16 in FB
 | B2 light | 29b9d588d8ea66ca9bee2fa6f3ffbd38 | d3493813bba626e769b13e27e00603b5 | 120247654305990099 |
 | B3 dark | 6e4147fce43207dc9f3086e9943a853e | b5e558ff7065a9fdc45419d78b19f8b9 | 120247654306170099 |
 | B3 light | f44f53f41059c59584d5110b7e800ee3 | c27dba36634628afec4a62eedcd1a6b3 | 120247654306520099 |
+
+Update Nov 25: each ad also has a Reels-only 9:16 image (`*_reels.png`, text kept above the Reels caption area). Reels hashes: A1d cf23c0f760b1acfefc219e565dadda4c, A1l afe4db7ad69b8fadc401360e0cb70981, A2d d5ffdcb101589d8678e1630787473f15, A2l 5da2ed83016adb663e8e860b1d32d3d0, A3d 72a787ece17182cc44d0571a2d3819c1, A3l a83f13ac9bbe1bf2dd73680ed6c17ac5, B1d ff2a68a226cc3e41393289d576e78585, B1l c317c8deacbfad80faeb47272f97b1f2, B2d efa250b058dd9b91cf46af8ed0269b27, B2l 8e06b305b01c490c8b7d03ece393f2db, B3d 46400c1590c53774ee347cd7327a96c0, B3l 77389501905e65153825f97b4632eac2. Published Nov 25, 2026 at $60/day per ad set.
